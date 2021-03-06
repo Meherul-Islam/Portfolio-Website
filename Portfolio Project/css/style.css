@@ -1,0 +1,112 @@
+.body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.banner-container {
+  background-color: coral;
+}
+.banner-column {
+  background-color: black;
+}
+
+.navbar-container {
+  top: 0;
+  background-color: grey;
+  text-transform: uppercase;
+  position: sticky;
+  z-index: 2;
+  
+}
+
+.about-container {
+  background-color: darkolivegreen;
+  font-size: larger;
+}
+.education-container {
+  background-color: dimgrey;
+}
+.circle-education {
+  background-color: gold;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+}
+
+.project-container {
+  background-color: turquoise;
+}
+.portfolio {
+  background-color: yellowgreen;
+}
+
+.form-container {
+  background-color: grey;
+}
+
+.inner-form {
+  background-color: grey;
+}
+.inner-form:hover {
+  background-color: white;
+}
+
+.button-color {
+  background-color: red;
+}
+
+.button-color:hover {
+  background-color: green;
+  color: black !important;
+}
+
+.footer {
+  background-color: cyan;
+}
+
+.circle-facebook {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: grey;
+  color:solid black;
+  font-size: 40px;
+  text-align: center;
+}
+.circle-facebook:hover{
+  background-color:#4867AA;
+  color: white;
+}
+.circle-youtube {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: grey;
+  color:solid black;
+  font-size: 40px;
+  text-align: center;
+}
+.circle-youtube:hover {
+  
+  background-color: red;
+  color: white;
+ 
+}
+
+.circle-git {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: grey;
+  color:solid black;
+  font-size: 40px;
+  text-align: center;
+}
+.circle-git:hover {
+ 
+  background-color: white;
+  color:solid black;
+  
+}
